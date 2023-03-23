@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [kmigel.github.io/portfolio-website](kmigel.github.io/portfolio-website)
+- 👨‍💻 All of my projects are available at [https://kmigel.github.io/portfolio-website](kmigel.github.io/portfolio-website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
